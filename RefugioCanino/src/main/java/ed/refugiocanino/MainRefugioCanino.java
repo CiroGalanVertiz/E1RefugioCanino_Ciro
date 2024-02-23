@@ -13,6 +13,7 @@ public class MainRefugioCanino {
         // Agregar algunos perros al refugio
         refugio.agregarPerro("Max", "Labrador");
         refugio.agregarPerro("Bella", "Pastor Alemán");
+        refugio.agregarPerro("Sara","Golden retriever");
 
         // Mostrar la lista de perros en el refugio
         System.out.println("\nLista de perros en el refugio:");
